@@ -35,6 +35,7 @@ Seleção curada (em PT-BR) com as melhores APIs gratuitas para integração em 
 ```
 ## Dicas
 - [Métodos HTTP](./tips/http-methods.md)
+- [Segurança em APIs](./tips/api-security.md)
 
 ## Top 6 Melhores APIs Brasileiras
 1. [Tábua das marés API](https://tabuamare.devtu.qzz.io/)
