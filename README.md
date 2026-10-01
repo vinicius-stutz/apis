@@ -1,9 +1,38 @@
 # APIs gratuitas
 Seleção curada (em PT-BR) com as melhores APIs gratuitas para integração em projetos e protótipos de desenvolvimento.
 
-> [!NOTE]
-> 
-> Boa parte do conteúdo da pasta `collection/` foi gerado a partir da fonte original [public-apis/public-apis](https://github.com/public-apis/public-apis), mas foram filtrados, alterados, traduzidos e organizados para facilitar a consulta em PT-BR.
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                              ║
+║      █████╗ ██████╗ ██╗███████╗                                                                              ║
+║     ██╔══██╗██╔══██╗██║██╔════╝                                                                              ║
+║     ███████║██████╔╝██║███████╗                                                                              ║
+║     ██╔══██║██╔═══╝ ██║╚════██║                                                                              ║
+║     ██║  ██║██║     ██║███████║                                                                              ║
+║     ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝                                                                              ║
+║                                                                                                              ║
+║                  ┌──────────────────────────────────────────────────────────────────┐                        ║
+║                  │                                                                  │                        ║
+║                  │   >_ FREE APIs                                                   │                        ║
+║                  │                                                                  │                        ║
+║                  │   GET  /api/data          ──────►  { "status": 200 }             │                        ║
+║                  │                                                                  │                        ║
+║                  │   ┌──────────┐      ┌──────────┐      ┌──────────┐               │                        ║
+║                  │   │  USERS   │─────►│  DATA    │─────►│  TEST    │               │                        ║
+║                  │   └──────────┘      └──────────┘      └──────────┘               │                        ║
+║                  │        │                  │                  │                   │                        ║
+║                  │       REST               JSON              DEV                   │                        ║
+║                  │        │                  │                  │                   │                        ║
+║                  │   ─────┴──────────────────┴──────────────────┴─────              │                        ║
+║                  │                                                                  │                        ║
+║                  │        OPEN • FREE • PUBLIC • READY TO TEST                      │                        ║
+║                  │                                                                  │                        ║
+║                  └──────────────────────────────────────────────────────────────────┘                        ║
+║                                                                                                              ║
+║                [ GET ] ──► [ API ] ──► [ JSON ] ──► [ YOUR APPLICATION ] ──► [ ✓ 200 OK ]                    ║
+║                                                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 ## Top 6 Melhores APIs Brasileiras
 1. [Tábua das marés API](https://tabuamare.devtu.qzz.io/)
@@ -14,6 +43,11 @@ Seleção curada (em PT-BR) com as melhores APIs gratuitas para integração em 
 6. [receitaws](https://receitaws.com.br/)
 
 ## Lista Completa com as Melhores APIs 
+
+> [!NOTE]
+> 
+> Boa parte do conteúdo da pasta `collection/` foi gerado a partir da fonte original [public-apis/public-apis](https://github.com/public-apis/public-apis), mas foram filtrados, alterados, traduzidos e organizados para facilitar a consulta em PT-BR.
+
 - [Animals](./collection/animals.md)
 - [Anime](./collection/anime.md)
 - [Anti-Malware](./collection/anti-malware.md)
